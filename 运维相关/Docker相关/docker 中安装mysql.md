@@ -8,20 +8,23 @@
 
 ```console
 docker exec -it mysql bash
+
+```
+
+问题：
+
+![image-20231104132600385](E:\代码练习\Notes_Lix\运维相关\Docker相关\docker 中安装mysql\image-20231104132600385.png)
+
+```
+docker stop /mysql
+docker rm /mysql
+
+
 ```
 
 
 
 
-
-问题：
-
-<img src="C:\Users\李响\AppData\Roaming\Typora\typora-user-images\image-20231104132600385.png" alt="image-20231104132600385" style="zoom: 25%;" />
-
-解决：
-
-docker stop /mysql
-docker rm /mysql
 
 
 
@@ -65,7 +68,7 @@ select user, host from user;
 
 
 
-<img src="C:\Users\李响\AppData\Roaming\Typora\typora-user-images\image-20231104134040988.png" alt="image-20231104134040988" style="zoom: 50%;" />
+![image-20231104134040988](E:\代码练习\Notes_Lix\运维相关\Docker相关\docker 中安装mysql\image-20231104134040988.png)
 
 
 
