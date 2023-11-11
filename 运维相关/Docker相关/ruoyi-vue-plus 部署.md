@@ -203,8 +203,14 @@ docker exec -it ruoyi-admin  /bin/bash
 
 在容器中运行
 
+
+
 ```
 nohup java -jar ruoyi-admin.jar --server.port=8688 &
 
 ```
+
+
+
+![](E:\代码练习\Notes_Lix\运维相关\Docker相关\ruoyi-vue-plus 部署\Snipaste_2023-11-11_17-39-06.png)
 
