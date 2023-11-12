@@ -13,7 +13,7 @@ docker exec -it mysql bash
 
 问题：
 
-![image-20231104132600385](E:\代码练习\Notes_Lix\运维相关\Docker相关\docker 中安装mysql\image-20231104132600385.png)
+![image-20231104132600385](https://gitee.com/N2N/note_images/raw/master/image-20231104132600385.png)
 
 ```
 docker stop /mysql
@@ -67,8 +67,6 @@ select user, host from user;
 ```
 
 
-
-![image-20231104134040988](E:\代码练习\Notes_Lix\运维相关\Docker相关\docker 中安装mysql\image-20231104134040988.png)
 
 
 
