@@ -44,9 +44,10 @@ docker cp /home/mssql/WorkSchedule.bak sqlserver:/var/opt/mssql/data/
 
 
 
-117.72.43.18
 
-sa
 
-8llq$yiz$FjJXbQh,,,DDAA
 
+
+推荐使用 docker 面板管理工具
+
+https://1panel.cn/
